@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671282224035",
+    "project_id": "notes-by-fazzal",
+    "storage_bucket": "notes-by-fazzal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671282224035:android:ce8335c5f0b6d48588d816",
+        "android_client_info": {
+          "package_name": "com.example.my_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671282224035-4qbalq99fm7jmpedjfult2a8b6ok0sr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjSu6E_8ZigGh1NTr6slUzIu8EYz3SaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671282224035-4qbalq99fm7jmpedjfult2a8b6ok0sr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671282224035-2hfdk18ae0g0na9lkm1n80g1csmedqpb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myNotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
